@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Admin Dashboard**
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **React, Oracle and Node.Js**
 
